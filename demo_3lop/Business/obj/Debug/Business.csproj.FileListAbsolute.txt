@@ -1,0 +1,54 @@
+D:\CNNET\6_3\demo_3lop\Business\bin\Debug\Business.dll
+D:\CNNET\6_3\demo_3lop\Business\bin\Debug\Business.pdb
+D:\CNNET\6_3\demo_3lop\Business\bin\Debug\Data_Access_Layer.dll
+D:\CNNET\6_3\demo_3lop\Business\bin\Debug\Data_Access_Layer.pdb
+D:\CNNET\6_3\demo_3lop\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\CNNET\6_3\demo_3lop\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\CNNET\6_3\demo_3lop\Business\obj\Debug\Business.csproj.CopyComplete
+D:\CNNET\6_3\demo_3lop\Business\obj\Debug\Business.dll
+D:\CNNET\6_3\demo_3lop\Business\obj\Debug\Business.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Business\bin\Debug\Business.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Business\bin\Debug\Business.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Business\bin\Debug\Data_Access_Layer.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Business\bin\Debug\Data_Access_Layer.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\6_3\demo_3lop\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\6_3\demo_3lop\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\User\Downloads\6_3\demo_3lop\Business\obj\Debug\Business.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Business\obj\Debug\Business.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\bin\Debug\Business.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\bin\Debug\Business.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\bin\Debug\Data_Access_Layer.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\bin\Debug\Data_Access_Layer.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\obj\Debug\Business.csproj.CopyComplete
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\obj\Debug\Business.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Business\obj\Debug\Business.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\bin\Debug\Business.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\bin\Debug\Business.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\bin\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\bin\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\obj\Debug\Business.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Business\obj\Debug\Business.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\bin\Debug\Business.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\bin\Debug\Business.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\bin\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\bin\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\obj\Debug\Business.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Business\obj\Debug\Business.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\bin\Debug\Business.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\bin\Debug\Business.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\bin\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\bin\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\obj\Debug\Business.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Business\obj\Debug\Business.pdb

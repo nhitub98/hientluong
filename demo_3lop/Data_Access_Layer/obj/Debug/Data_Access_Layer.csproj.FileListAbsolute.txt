@@ -1,0 +1,36 @@
+D:\CNNET\6_3\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+D:\CNNET\6_3\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+D:\CNNET\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\CNNET\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\CNNET\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+D:\CNNET\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb

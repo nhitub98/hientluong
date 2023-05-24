@@ -1,0 +1,468 @@
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Presentation.dll.config
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Presentation.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Presentation.pdb
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\csc.exe
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\csc.exe.config
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\csc.rsp
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\csi.exe
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\csi.exe.config
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\csi.rsp
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.AppContext.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Collections.Immutable.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Console.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Net.Http.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Net.Sockets.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.ValueTuple.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\vbc.exe
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\vbc.exe.config
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\vbc.rsp
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe
+D:\CNNET\6_3\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe.config
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Antlr3.Runtime.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Business.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Data_Access_Layer.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.Web.Infrastructure.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Newtonsoft.Json.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\System.Web.Optimization.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\WebGrease.dll
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Business.pdb
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Data_Access_Layer.pdb
+D:\CNNET\6_3\demo_3lop\Presentation\bin\System.Web.Optimization.xml
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Newtonsoft.Json.xml
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Antlr3.Runtime.pdb
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CNNET\6_3\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNNET\6_3\demo_3lop\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\CNNET\6_3\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\CNNET\6_3\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\CNNET\6_3\demo_3lop\Presentation\obj\Debug\Presentation.dll
+D:\CNNET\6_3\demo_3lop\Presentation\obj\Debug\Presentation.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Presentation.dll.config
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Presentation.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Presentation.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\csc.exe
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\csi.exe
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Business.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Data_Access_Layer.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\WebGrease.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Business.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Data_Access_Layer.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\obj\Debug\Presentation.dll
+C:\Users\User\Downloads\6_3\demo_3lop\Presentation\obj\Debug\Presentation.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Presentation.dll.config
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Presentation.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Presentation.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csc.exe
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csc.exe.config
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csc.rsp
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csi.exe
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csi.exe.config
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csi.rsp
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.AppContext.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Collections.Immutable.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Console.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Globalization.Calendars.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Net.Http.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Net.Sockets.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.ValueTuple.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\vbc.exe
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\vbc.exe.config
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\vbc.rsp
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe.config
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Antlr3.Runtime.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Business.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Data_Access_Layer.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.Web.Infrastructure.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Newtonsoft.Json.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\System.Web.Optimization.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\WebGrease.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Business.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Data_Access_Layer.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\System.Web.Optimization.xml
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Newtonsoft.Json.xml
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Antlr3.Runtime.pdb
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.dll
+D:\520100010\Cong nghe Net\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Presentation.dll.config
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Presentation.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Presentation.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Business.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Data_Access_Layer.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\WebGrease.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Business.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.dll
+C:\Users\admin\Desktop\20_3 cn net\demo_3lop\Presentation\obj\Debug\Presentation.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Presentation.dll.config
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Presentation.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Presentation.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Business.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Data_Access_Layer.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\WebGrease.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Business.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\obj\Debug\Presentation.dll
+C:\Users\admin\Desktop\Web ban sach btl\demo_3lop\Presentation\obj\Debug\Presentation.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Presentation.dll.config
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Presentation.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Presentation.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Business.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Data_Access_Layer.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\WebGrease.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Business.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Data_Access_Layer.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\obj\Debug\Presentation.dll
+C:\Users\admin\Desktop\PETSHOP\demo_3lop\Presentation\obj\Debug\Presentation.pdb

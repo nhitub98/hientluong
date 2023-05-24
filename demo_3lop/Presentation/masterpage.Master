@@ -1,0 +1,137 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterpage.master.cs" Inherits="Presentation.masterpage" %>
+
+<%@ Register src="UserControls/UC_left.ascx" tagname="UC_left" tagprefix="uc1" %>
+
+<%@ Register src="UserControls/menu.ascx" tagname="menu" tagprefix="uc2" %>
+<%@ Register src="UserControls/Uc_top.ascx" tagname="Uc_top" tagprefix="uc3" %>
+<%@ Register src="UserControls/UC_timkiem.ascx" tagname="UC_timkiem" tagprefix="uc4" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+		.auto-style1 {
+			width: 100%;
+		}
+		.auto-style16 {
+			height: 130px;
+			width: 402px;
+		}
+		.auto-style30 {
+			height: 69px;
+			text-align: left;
+			}
+		.auto-style32 {
+			color: rgb(102, 204, 255);
+			background-color: #0099CC;
+		}
+		.auto-style41 {
+			text-align: left;
+		}
+		.auto-style42 {
+			background-color: #FFFFFF;
+		}
+		.auto-style43 {
+			text-align: left;
+			color: #FF3300;
+			width: 140px;
+			height: 55px;
+		}
+		.auto-style47 {
+			height: 130px;
+			width: 38px;
+		}
+		.auto-style48 {
+			width: 38px;
+		}
+		.auto-style49 {
+			text-align: right;
+		}
+		.auto-style50 {
+			width: 402px;
+		}
+	</style>
+</head>
+<body style="width: 2077px; height: 2100px">
+    <form id="form1" runat="server">
+        <div>
+        	<h6>
+				<br class="auto-style32" />
+			</h6>
+        </div>
+		<table>
+			<tr>
+				<td colspan="4">
+					<h6 class="auto-style41">
+						<asp:Image ID="Image1" runat="server" Height="388px" ImageUrl="~/images/dog-and-cat-cover.jpg" Width="1675px" />
+					</h6>
+				</td>
+			</tr>
+			<tr>
+				<td class="auto-style30" colspan="2">
+					<h6>
+						<asp:Image ID="Image2" runat="server" Height="82px" ImageUrl="~/images/petmart-logo-trang.png" Width="325px" />
+				</td>
+				<td class="auto-style30" colspan="2">
+					<uc4:UC_timkiem ID="UC_timkiem1" runat="server" />
+				</td>
+			</tr>
+			<tr>
+				<td class="auto-style50">
+					<strong><em>
+					<uc3:Uc_top ID="Uc_top1" runat="server" />
+					</em></strong>
+				</td>
+				<td colspan="3">
+					<uc2:menu ID="menu1" runat="server" />
+				</td>
+			</tr>
+			<tr>
+				<td class="auto-style16">
+					<h6 class="auto-style43" data-show="hide-for-medium" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5em; text-rendering: optimizespeed; font-size: 1.6em; line-height: 1.3; font-family: Lato, sans-serif; font-weight: 700;"><span class="auto-style42" style="box-sizing: border-box; -webkit-box-decoration-break: clone;">&nbsp;&nbsp; MENU</span></h6>
+					<uc1:UC_left ID="UC_left1" runat="server" />
+				</td>
+				<td class="auto-style47" colspan="2">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            	<h6>&nbsp;</h6>
+            </asp:ContentPlaceHolder>
+                </td>
+				<td class="auto-style49">
+						<asp:Image ID="Image3" runat="server" Height="437px" ImageUrl="~/images/ky-sinh-trung-mau-o-cho.jpg" Width="351px" />
+				</td>
+			</tr>
+			<tr>
+				<td class="auto-style50">
+						<asp:Image ID="Image8" runat="server" Height="500px" ImageUrl="~/images/banner1.jpg" Width="400px" />
+				</td>
+				<td colspan="2" class="auto-style48">
+					<h6></h6>
+				</td>
+				<td class="auto-style49">
+						<asp:Image ID="Image4" runat="server" Height="510px" ImageUrl="~/images/nemo.jpg" Width="351px" />
+				</td>
+			</tr>
+			<tr>
+				<td class="auto-style50">
+						<asp:Image ID="Image5" runat="server" Height="500px" ImageUrl="~/images/discount.jpg" Width="400px" />
+				</td>
+				<td colspan="2" class="auto-style48">
+					&nbsp;</td>
+				<td class="auto-style49">
+						<asp:Image ID="Image6" runat="server" Height="411px" ImageUrl="~/images/catdog.jpg" Width="351px" />
+				</td>
+
+			</tr>
+			<tr>
+				<td colspan="4">
+						<asp:Image ID="Image9" runat="server" Height="388px" ImageUrl="~/images/cat-dog-rabbit-hamster-together-full-growth-white-background-cat-dog-rabbit-hamster-158957165.jpg" Width="1675px" />
+				</td>
+			</tr>
+		</table>
+    </form>
+</body>
+</html>
